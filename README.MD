@@ -98,9 +98,7 @@ Each frame earns points based on prediction accuracy.
 
 ### Precision Score Formula
 
-$
-\text{Precision Score} = 50 \times \left(\frac{\text{Total Points Earned}}{\text{Number of Frames}}\right)
-$
+$\text{Precision Score} = 50 \times \left(\frac{\text{Total Points Earned}}{\text{Number of Frames}}\right)$
 
 ---
 
