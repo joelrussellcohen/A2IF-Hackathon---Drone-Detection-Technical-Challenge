@@ -110,9 +110,7 @@ Execution time matters.
 
 For each level:
 
-$
-\text{Speed Score} = 50 \times (\text{Percentile Rank of Time})
-$
+$\text{Speed Score} = 50 \times (\text{Percentile Rank of Time})$
 
 * Fastest submission → near 50 points
 * Median speed → ~25 points
