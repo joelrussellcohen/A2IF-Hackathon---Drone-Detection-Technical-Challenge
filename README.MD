@@ -199,8 +199,7 @@ You may use the following libraries without additional approval:
 
 If you plan to use a library **not listed above** and not included in the Python standard library:
 
-* Message the Discord channel: **[appropriate forum]**
-* Or email: **[appropriate email]**
+* Message the Discord channel: **Submission Details**
 
 This ensures our graders can properly install and evaluate your submission.
 
@@ -248,7 +247,7 @@ Late submissions will not be accepted.
    * README with execution instructions
 3. Submit your GitHub link using this form:
 
-👉 **[submission form link]**
+👉 (GitHub Submission Form)[https://forms.office.com/Pages/ResponsePage.aspx?id=p3GRv1Cm30GijD7Cxo_7_ReLkt6J4RlLgQX9FjDpeCxUQ1hKTzhJM1U5WUpMTjZERVgxMlFDRENRTC4u]
 
 ---
 
