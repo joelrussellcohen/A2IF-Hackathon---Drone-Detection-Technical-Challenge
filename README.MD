@@ -98,9 +98,9 @@ Each frame earns points based on prediction accuracy.
 
 ### Precision Score Formula
 
-[
+$
 \text{Precision Score} = 50 \times \left(\frac{\text{Total Points Earned}}{\text{Number of Frames}}\right)
-]
+$
 
 ---
 
@@ -110,9 +110,9 @@ Execution time matters.
 
 For each level:
 
-[
+$
 \text{Speed Score} = 50 \times (\text{Percentile Rank of Time})
-]
+$
 
 * Fastest submission → near 50 points
 * Median speed → ~25 points
